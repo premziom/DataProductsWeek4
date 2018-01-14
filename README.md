@@ -20,6 +20,6 @@ The application is available here:
 https://przem.shinyapps.io/creditdefaultspredtree/
 
 and the presentation describing the app:
-To be inserted
+http://rpubs.com/przemziom/CreditDefaultPredict
 
 
